@@ -1,12 +1,12 @@
 # Introducing DataMathur 🍵
 
-Hi there 👋! I am **[Utkarsh Mathur](https://datamathur.github.io/){:target="_blank"}**, ***a.k.a. DataMathur***, a 23-year-old new-grad with **MS in Data Science** from University at Buffalo, **B.Tech. from IIT Roorkee**, and **2 years of experience** in Data Science, Software Engineering, and Data Engineering.
+Hi there 👋! I am **[Utkarsh Mathur](https://datamathur.github.io/)**, ***a.k.a. DataMathur***, a 23-year-old new-grad with **MS in Data Science** from University at Buffalo, **B.Tech. from IIT Roorkee**, and **2 years of experience** in Data Science, Software Engineering, and Data Engineering.
 
 I am passionate about leveraging my skills to develop scalable AI/ML software and services as well as picking up new skills on the way. My expertise spans **programming** (Python, C++, SQL, R, Perl, and JavaScript), **machine learning**, **data engineering**, and **software development**, and I am eager to apply these skills in an IT setting to drive innovation and deliver impactful solutions.
 
 I am committed to continuous learning and passionate about creating impactful and practical solutions. I believe that with dedication, hard work, and a positive mindset, anything is achievable - a principle I've demonstrated throughout my academic and professional career. I am **actively seeking opportunities** in **Data Science**, **Software Engineering**, **Data Engineering**, and **Data Analysis**.
 
-## [Education](https://datamathur.github.io/#edu){:target="_blank"} 🎓
+## [Education](https://datamathur.github.io/#edu) 🎓
 
 **University at Buffalo, State University of New York**<br>
 Master of Science in Data Science (Engineering Science)<br>
@@ -16,7 +16,7 @@ Master of Science in Data Science (Engineering Science)<br>
 Bachelor of Technology in Polymer Science (Chemical Engineering)<br>
 *July 2018 – July 2022*
 
-## [Work Experience](https://datamathur.github.io/#work){:target="_blank"} 💼
+## [Work Experience](https://datamathur.github.io/#work) 💼
 
 1. **Data Scientist at Quinbay** (May 2022 - October 2022)
 2. **Machine Learning Engineer at Hono** (July 2021 - April 2022)
@@ -26,7 +26,7 @@ Bachelor of Technology in Polymer Science (Chemical Engineering)<br>
 6. **Research Intern under Dr. Gaurav Manik** (July 2019)
 
 
-## [Key Skills and Expertise](https://datamathur.github.io/#skills){:target="_blank"} 💻
+## [Key Skills and Expertise](https://datamathur.github.io/#skills) 💻
 **Python Programming**: Leveraged Python to develop solutions and deliver analysis across various industries.
 
 **Machine Learning**: Developed and deployed ML solutions for Big Data, Computer Vision, and NLP using sklearn, PyTorch, TensorFlow, and JAX.
@@ -37,7 +37,8 @@ Bachelor of Technology in Polymer Science (Chemical Engineering)<br>
 
 **Software Developmemt**: Experienced in fullstack deployment of developed solutions using Python, JavaScript (Node, Angular, React, MongoDB, Django), C++, and HTML/CSS.
 
-## [Key Projects](https://datamathur.github.io/#projects){:target="_blank"} 📝
+
+## [Key Projects](https://datamathur.github.io/#projects) 📝
 
 1. **Graph Neural Networks and Large Language Models**: A Literature Review (Capstone Project)
 2. **Metaheuristic Optimization v/s Backpropagation** (Course Project)
@@ -46,13 +47,13 @@ Bachelor of Technology in Polymer Science (Chemical Engineering)<br>
 5. **Clustering and Time Series Analysis** (Course Project)
 
 
-## [Contact Me](https://datamathur.github.io/#contact){:target="_blank"} ✉️
+## [Contact Me](https://datamathur.github.io/#contact) ✉️
 
 Feel free reach out at [utkarsh.datamathur@gmail.com](mailto:utkarsh.datamathur@gmail.com) and [datamathur@outlook.com](mailto:datamathur@outlook.com) to explore potential opportunities and collaborations.
 
-For more information regarding means to contact me, please visit the [contact page](https://datamathur.github.io/#contact){:target="_blank"}.
+For more information regarding means to contact me, please visit the [contact page](https://datamathur.github.io/#contact).
 
-[Schedule a virtual call with me](https://calendly.com/datamathur/discussion_with_utkarsh_mathur){:target="_blank"}
+[Schedule a virtual call with me](https://calendly.com/datamathur/discussion_with_utkarsh_mathur)
 
 <!--
 **datamathur/datamathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
