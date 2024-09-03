@@ -52,7 +52,7 @@ Feel free reach out at [utkarsh.datamathur@gmail.com](mailto:utkarsh.datamathur@
 
 For more information regarding means to contact me, please visit the [contact page](https://datamathur.github.io/#contact).
 
-<a href="https://calendly.com/datamathur/discussion_with_utkarsh_mathur" target="_blank">Schedule a virtual call with me</a>
+[Schedule a virtual call with me](https://calendly.com/datamathur/discussion_with_utkarsh_mathur)
 
 <!--
 **datamathur/datamathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
