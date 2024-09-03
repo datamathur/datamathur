@@ -52,9 +52,6 @@ Feel free reach out at [utkarsh.datamathur@gmail.com](mailto:utkarsh.datamathur@
 
 For more information regarding means to contact me, please visit the [contact page](https://datamathur.github.io/#contact).
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/datamathur/discussion_with_utkarsh_mathur?background_color=1b1f22&text_color=ffffff" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
 <!--
 **datamathur/datamathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
