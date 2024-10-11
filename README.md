@@ -1,6 +1,5 @@
-<p align="center">
-    <img src="./Logo.svg">
-</p>
+<img src="./Logo.svg" width="200px" height="200px">
+<br /><br />
 
 # Introducing DataMathur 🍵
 
