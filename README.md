@@ -3,7 +3,7 @@
 
 # Introducing DataMathur 🍵
 
-Hi there 👋! I am **[Utkarsh Mathur](https://datamathur.github.io/)**, ***a.k.a. DataMathur***, a 24-year-old new-grad with **MS in Data Science** from University at Buffalo, **B.Tech. from IIT Roorkee**, and **2 years of experience** in Data Science, Software Engineering, and Data Engineering.
+Hi there 👋! I am **[Utkarsh Mathur](https://datamathur.github.io/)**, ***a.k.a. DataMathur***, a 24-year-old new-grad with **MS in Data Science** from University at Buffalo, **B.Tech. from IIT Roorkee**, and **2 years of experience** in Data Science, Software Engineering, and Data Engineering. I am currently working as a **Data Scientist at Atriano**, developing an educational story generation web app for kids using ***Large Language Models (LLMs)*** and ***recommendation algorithms***.
 
 I am passionate about leveraging my skills to develop scalable AI/ML software and services as well as picking up new skills on the way. My expertise spans **programming** (Python, C++, SQL, R, Perl, and JavaScript), **machine learning**, **data engineering**, and **software development**, and I am eager to apply these skills in an IT setting to drive innovation and deliver impactful solutions.
 
@@ -21,12 +21,14 @@ Bachelor of Technology in Polymer Science (Chemical Engineering)<br>
 
 ## [Work Experience](https://datamathur.github.io/#work) 💼
 
-1. **Data Scientist at Quinbay** (May 2022 - October 2022)
-2. **Machine Learning Engineer at Hono** (July 2021 - April 2022)
-3. **Data Scientist at ImagoAI** (April 2021 - May 2021)
-4. **Research Intern under Dr. Kusum Deep** (September 2021 - December 2021)
-5. **Research Intern under Dr. Mayank Goswami** (September 2020 - June 2021)
-6. **Research Intern under Dr. Gaurav Manik** (July 2019)
+1. **Data Scientist at Atriano** (September 2024 - *Present*)
+2. **Data Engineer, Imaging at ImagoAI** (October 2024 - January 2025)
+3. **Data Scientist at Quinbay** (May 2022 - October 2022)
+4. **Machine Learning Engineer at Hono** (July 2021 - April 2022)
+5. **Data Scientist at ImagoAI** (April 2021 - May 2021)
+6. **Research Intern under Dr. Kusum Deep** (September 2021 - December 2021)
+7. **Research Intern under Dr. Mayank Goswami** (September 2020 - June 2021)
+8. **Research Intern under Dr. Gaurav Manik** (July 2019)
 
 
 ## [Key Skills and Expertise](https://datamathur.github.io/#skills) 💻
@@ -52,7 +54,7 @@ Bachelor of Technology in Polymer Science (Chemical Engineering)<br>
 
 ## [Contact Me](https://datamathur.github.io/#contact) ✉️
 
-Feel free reach out at [utkarsh.datamathur@gmail.com](mailto:utkarsh.datamathur@gmail.com) and [datamathur@outlook.com](mailto:datamathur@outlook.com) to explore potential opportunities and collaborations.
+Feel free reach out at [utkarsh.mathur@gmail.com](mailto:utkarsh.mathur@gmail.com) and [datamathur@outlook.com](mailto:datamathur@outlook.com) to explore potential opportunities and collaborations.
 
 For more information regarding means to contact me, please visit the [contact page](https://datamathur.github.io/#contact).
 
