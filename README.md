@@ -31,7 +31,7 @@ Bachelor of Technology in Polymer Science (Chemical Engineering)<br>
 8. **Research Intern under Dr. Gaurav Manik** (July 2019)
 
 
-## [Key Skills and Expertise](https://datamathur.github.io/#skills) 💻
+## Key Skills and Expertise 💻
 **Python Programming**: Leveraged Python to develop solutions and deliver analysis across various industries.
 
 **Machine Learning**: Developed and deployed ML solutions for Big Data, Computer Vision, and NLP using sklearn, PyTorch, TensorFlow, and JAX.
